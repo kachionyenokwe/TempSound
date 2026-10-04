@@ -1,0 +1,29 @@
+# IDE cache & locks (Must be at the top)
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+
+# Data, Audio & PyTorch Model Weights
+data/raw/*
+data/processed/*.wav
+data/benchmark_50/*.wav
+*.wav
+*.mp3
+*.pt
+*.pth
+*.bin
+
+# Exceptions: Keep directory structures tracked
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/benchmark_50/.gitkeep
