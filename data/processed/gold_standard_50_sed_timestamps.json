@@ -1,0 +1,302 @@
+[
+    {
+        "sample_id": 1,
+        "youtube_id": "0Jw-3txze7g",
+        "caption": "a man speaks with slight accent as a crowd in the background makes noise then silences",
+        "detected_events": []
+    },
+    {
+        "sample_id": 2,
+        "youtube_id": "g32CnUNuj30",
+        "caption": "a vehicle accelerates and a man yells then a siren sounds",
+        "detected_events": []
+    },
+    {
+        "sample_id": 3,
+        "youtube_id": "cEYr8peuyaQ",
+        "caption": "a vehicle engine revs and accelerates whining then a man laughs",
+        "detected_events": []
+    },
+    {
+        "sample_id": 4,
+        "youtube_id": "76czumNjJs4",
+        "caption": "a man is speaking and then a gun is fired and cocked",
+        "detected_events": []
+    },
+    {
+        "sample_id": 5,
+        "youtube_id": "5pqrDmwcREg",
+        "caption": "many loud squeaks or whistles sounding together, a vehicle passing, then a vehicle horn accompanies a male voice",
+        "detected_events": []
+    },
+    {
+        "sample_id": 6,
+        "youtube_id": "ZTLXroS8c08",
+        "caption": "a man speaks while a water tap runs then a beep occurs",
+        "detected_events": []
+    },
+    {
+        "sample_id": 7,
+        "youtube_id": "vD-qOCgM_n4",
+        "caption": "a motorcycle engine idles then turns off",
+        "detected_events": []
+    },
+    {
+        "sample_id": 8,
+        "youtube_id": "p0aqRJjleeo",
+        "caption": "a woman speaks and then a kid yells loudly as soft voices speak softly in the background",
+        "detected_events": []
+    },
+    {
+        "sample_id": 9,
+        "youtube_id": "OiEWDUanHd4",
+        "caption": "an engine idles as a man speaks then it accelerates",
+        "detected_events": []
+    },
+    {
+        "sample_id": 10,
+        "youtube_id": "2WdLzNoCuhs",
+        "caption": "a motorcycle engine is running then someone starts speaking",
+        "detected_events": []
+    },
+    {
+        "sample_id": 11,
+        "youtube_id": "bzZ_pvpW-PI",
+        "caption": "A man talks and continues to do so after an engine starts.",
+        "detected_events": []
+    },
+    {
+        "sample_id": 12,
+        "youtube_id": "OaC2T2hPjOs",
+        "caption": "a man talks and continues to do so after some crinkling noises",
+        "detected_events": []
+    },
+    {
+        "sample_id": 13,
+        "youtube_id": "h8HhvLFciLI",
+        "caption": "several whooshing sound effects one after another",
+        "detected_events": []
+    },
+    {
+        "sample_id": 14,
+        "youtube_id": "v8IEwM760MI",
+        "caption": "a toilet flushes and water drains after footsteps take place",
+        "detected_events": []
+    },
+    {
+        "sample_id": 15,
+        "youtube_id": "bhFDDn259uc",
+        "caption": "two men talk one after the other as water is gushing",
+        "detected_events": []
+    },
+    {
+        "sample_id": 16,
+        "youtube_id": "Fjt0rz8S6FY",
+        "caption": "water drains after a toilet has been flushed and music plays",
+        "detected_events": []
+    },
+    {
+        "sample_id": 17,
+        "youtube_id": "DdUVmyumsEY",
+        "caption": "two men talking one after the other while an engine is rumbling",
+        "detected_events": []
+    },
+    {
+        "sample_id": 18,
+        "youtube_id": "drwGQUS-zo8",
+        "caption": "a water tap runs splashing onto a hard surface after an object is moved and man speaks",
+        "detected_events": []
+    },
+    {
+        "sample_id": 19,
+        "youtube_id": "Ta6zd-NHM3U",
+        "caption": "girls speak and laugh after making dog sounds",
+        "detected_events": []
+    },
+    {
+        "sample_id": 20,
+        "youtube_id": "JG1OY5UdKlU",
+        "caption": "water gurgling vigorously as a motorboat engine runs and people talk one after another",
+        "detected_events": []
+    },
+    {
+        "sample_id": 21,
+        "youtube_id": "LhqfvckaD2A",
+        "caption": "people speak and water flows before a splash occurs and a goat bleats",
+        "detected_events": []
+    },
+    {
+        "sample_id": 22,
+        "youtube_id": "3mijJIw-D6Y",
+        "caption": "a dog starts barking before the engine starts",
+        "detected_events": []
+    },
+    {
+        "sample_id": 23,
+        "youtube_id": "fZzLIfGogs0",
+        "caption": "a motor vehicle engine is idling as a door closes before an engine makes a loud rumbling sound",
+        "detected_events": []
+    },
+    {
+        "sample_id": 24,
+        "youtube_id": "cXCQPFOZ_Ss",
+        "caption": "people speaking in the background before a car revs and speeds away",
+        "detected_events": []
+    },
+    {
+        "sample_id": 25,
+        "youtube_id": "siHkuDOwlrM",
+        "caption": "ducks quack and a man speaks before gunshots occur and wind blows",
+        "detected_events": []
+    },
+    {
+        "sample_id": 26,
+        "youtube_id": "WNTFXmmW6p4",
+        "caption": "a dog breathes heavily and barks before snoring takes place",
+        "detected_events": []
+    },
+    {
+        "sample_id": 27,
+        "youtube_id": "Ambr9pfUpOk",
+        "caption": "a car engine idles and sputters before coming to a stop",
+        "detected_events": []
+    },
+    {
+        "sample_id": 28,
+        "youtube_id": "6hHb5uON0CY",
+        "caption": "a person speaks right before an explosion and another person laughs",
+        "detected_events": []
+    },
+    {
+        "sample_id": 29,
+        "youtube_id": "n_l5GtAWG-M",
+        "caption": "a motorcycle idles and revs several times before accelerating",
+        "detected_events": []
+    },
+    {
+        "sample_id": 30,
+        "youtube_id": "dy19EZCUJAw",
+        "caption": "a vehicle engine idles before hissing occurs and it accelerates",
+        "detected_events": []
+    },
+    {
+        "sample_id": 31,
+        "youtube_id": "g0ZhCkABK-A",
+        "caption": "a man talking while a drill is spinning slowly and gets jammed",
+        "detected_events": []
+    },
+    {
+        "sample_id": 32,
+        "youtube_id": "SBF7A3M3Fu8",
+        "caption": "a person is typing on a computer keyboard while speaking",
+        "detected_events": []
+    },
+    {
+        "sample_id": 33,
+        "youtube_id": "ZZfKd753aSA",
+        "caption": "a man speaks while crumpling an object",
+        "detected_events": []
+    },
+    {
+        "sample_id": 34,
+        "youtube_id": "1x6bWKKAvKo",
+        "caption": "sounds of cars passing by with a siren in the background, while a door is opened and shut",
+        "detected_events": []
+    },
+    {
+        "sample_id": 35,
+        "youtube_id": "-4D3Gkyisyc",
+        "caption": "men speaking while vehicle engine idles",
+        "detected_events": []
+    },
+    {
+        "sample_id": 36,
+        "youtube_id": "iFPgF3A3omo",
+        "caption": "a person is snoring while sleeping as people laugh and speak in the background",
+        "detected_events": []
+    },
+    {
+        "sample_id": 37,
+        "youtube_id": "A01VB5lBeyk",
+        "caption": "a thunder storm is present while traffic honking is present",
+        "detected_events": []
+    },
+    {
+        "sample_id": 38,
+        "youtube_id": "bh8KfrOM8Is",
+        "caption": "horses walk causing clip-clopping while a man speaks",
+        "detected_events": []
+    },
+    {
+        "sample_id": 39,
+        "youtube_id": "MRRM2sarTH8",
+        "caption": "in a quiet environment, slow ticking is ongoing while an adult male speaks",
+        "detected_events": []
+    },
+    {
+        "sample_id": 40,
+        "youtube_id": "2VrebSkOf-k",
+        "caption": "a dog is barking while a man and woman make indistinguishable words over the barking",
+        "detected_events": []
+    },
+    {
+        "sample_id": 41,
+        "youtube_id": "u8Y8FGmMU40",
+        "caption": "a man speaking with brief tapping in the background followed by high pitched beeping",
+        "detected_events": []
+    },
+    {
+        "sample_id": 42,
+        "youtube_id": "JcEL882tTUg",
+        "caption": "several people talk followed by a gun fire",
+        "detected_events": []
+    },
+    {
+        "sample_id": 43,
+        "youtube_id": "lsTlX_oFQsw",
+        "caption": "wind blowing into a microphone with wind chimes softly ringing in the background as a dog barks followed by sheep baaing",
+        "detected_events": []
+    },
+    {
+        "sample_id": 44,
+        "youtube_id": "zK4SYmXWWHc",
+        "caption": "a man speaking followed by water splashing and thunder roaring",
+        "detected_events": []
+    },
+    {
+        "sample_id": 45,
+        "youtube_id": "J8Ms9y0D5oc",
+        "caption": "some jingling followed by car horns",
+        "detected_events": []
+    },
+    {
+        "sample_id": 46,
+        "youtube_id": "GPN4HyzFShY",
+        "caption": "a cuckoo clock hoots several times, followed by people talking nearby",
+        "detected_events": []
+    },
+    {
+        "sample_id": 47,
+        "youtube_id": "vUObTbN_9JY",
+        "caption": "an engine vibrates followed by a chainsaw revving",
+        "detected_events": []
+    },
+    {
+        "sample_id": 48,
+        "youtube_id": "SCBH3EV1Kyo",
+        "caption": "water is flowing forcefully followed by a toilet loudly flushing",
+        "detected_events": []
+    },
+    {
+        "sample_id": 49,
+        "youtube_id": "gaXDYfglvGs",
+        "caption": "an organ briefly playing followed by a whooshing sound effect",
+        "detected_events": []
+    },
+    {
+        "sample_id": 50,
+        "youtube_id": "9msY30SgQ-k",
+        "caption": "a male communicating with another male outside, followed by insects flying and buzzing in the background",
+        "detected_events": []
+    }
+]
