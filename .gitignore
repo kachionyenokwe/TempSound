@@ -27,3 +27,9 @@ data/benchmark_50/*.wav
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/benchmark_50/.gitkeep
+data/generated/
+*.zip
+
+# Generated model evaluation outputs
+data/generated/
+*.zip
